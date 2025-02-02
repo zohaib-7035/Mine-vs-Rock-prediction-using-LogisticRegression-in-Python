@@ -22,7 +22,7 @@ Pandas
 
 Scikit-learn (for machine learning and evaluation)
 
-Project Workflow
+**Project Workflow**
 
 Data Loading: Read the sonar dataset using Pandas.
 
