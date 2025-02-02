@@ -1,5 +1,5 @@
-**Rock vs Mine Prediction**
-
+****Rock vs Mine Prediction**
+**
 **Overview**
 
 This project is a machine learning model that predicts whether an object is a rock or a mine based on sonar data. The dataset used contains numerical frequency-based attributes derived from sonar signals, with labels indicating whether the object is a rock (R) or a mine (M).
